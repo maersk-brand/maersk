@@ -1,4 +1,4 @@
 # maersk
-this project is developed Using Javascript, HTML, CSS.
+This project is developed Using Javascript, HTML, CSS.
 
-index.html just need to open in browser.
+To run this project index.html just need to open in browser.
